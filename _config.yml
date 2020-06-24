@@ -1,11 +1,11 @@
 # Site settings
 author: Christopher Dutcher
-title: 
+title: Why I decided to study Software Engineering
 header-img: img/home-bg.png
 email: cadutcher@icloud.com
 copyright_name: Christopher Dutcher
 description: > # this means to ignore newlines until "baseurl:"
-  
+  First mile blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Dutchmile
